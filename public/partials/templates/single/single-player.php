@@ -121,7 +121,7 @@ $duration   = $data->get_duration($id);
         <?php $download_link = get_post_meta($id, 'eroz_ads_link', true); 
         if($download_link){ ?>
             <li class="fg1 b-fg0 px04 c-f14 d-f16">
-                <a href="<?php echo $download_link; ?>" class="btn f14 py0 px08 bgt text-c link-c-h"><i class="fa-arrow-to-bottom far b-mr08"></i><span class="dno b-dbk"><?php echo lang_torotube('Download', 'lang_download'); ?></span></a>
+                <a href="<?php echo $download_link; ?>" target="_blank" rel="noopener noreferrer" class="btn f14 py0 px08 bgt text-c link-c-h"><i class="fa-arrow-to-bottom far b-mr08"></i><span class="dno b-dbk"><?php echo lang_torotube('Download', 'lang_download'); ?></span></a>
             </li>
         <?php } ?>
 
