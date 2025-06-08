@@ -14,8 +14,9 @@ if(isset($_COOKIE["mode_theme"])) {
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<link rel="preload" href="<?php echo TOROTUBE_DIR_URI; ?>public/css/icons.min.css" as="style" crossorigin="anonymous">
-	<link rel="stylesheet" href="<?php echo TOROTUBE_DIR_URI; ?>public/css/icons.min.css" media="print" onload="this.media='all'">
+        <?php $icons_version = filemtime( TOROTUBE_DIR_PATH . 'public/css/icons.min.css' ); ?>
+        <link rel="preload" href="<?php echo TOROTUBE_DIR_URI; ?>public/css/icons.min.css?v=<?php echo $icons_version; ?>" as="style" crossorigin="anonymous">
+        <link rel="stylesheet" href="<?php echo TOROTUBE_DIR_URI; ?>public/css/icons.min.css?v=<?php echo $icons_version; ?>" media="print" onload="this.media='all'">
 
 
     <?php wp_head(); 

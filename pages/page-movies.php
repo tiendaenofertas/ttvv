@@ -38,13 +38,15 @@ if ( have_posts() ) : while ( have_posts() ) : the_post();
                         'ignore_sticky_posts' => true,
                         'paged'               => $paged,
                     ); 
-                    query_posts($args);
-                    if(have_posts()) : 
+                    global $wp_query;
+                    $temp_query = $wp_query;
+                    $wp_query = new WP_Query($args);
+                    if($wp_query->have_posts()) :
                     ?>
                         <div class="dgd gt2 a-gtf gp08 mt16 d-mt24 c-gt3 f-gt6">
                             
-                            <?php 
-                            while(have_posts()) : the_post();
+                            <?php
+                            while($wp_query->have_posts()) : $wp_query->the_post();
                                 get_template_part( 'public/partials/templates/loop', 'movies', array(
                                     'video_favorites'   => $video_favorites,
                                     'favorite'          => $favorite,
@@ -57,7 +59,7 @@ if ( have_posts() ) : while ( have_posts() ) : the_post();
                         <nav class="navigation pagination">
                             <?php torotube_pagination(); ?>
                         </nav>
-                    <?php endif; wp_reset_query(); ?>
+                    <?php endif; $wp_query = $temp_query; wp_reset_postdata(); ?>
 
 				</section>
                 
