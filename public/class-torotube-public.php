@@ -9,7 +9,13 @@ class TOROTUBE_Public {
     }
 
     public function enqueue_styles() {
-        wp_enqueue_style( 'torotube_public_main', TOROTUBE_DIR_URI . 'public/css/main.min.css', array(), $this->version, 'all' );
+        wp_enqueue_style(
+            'torotube_public_main',
+            TOROTUBE_DIR_URI . 'public/css/main.min.css',
+            array(),
+            filemtime( TOROTUBE_DIR_PATH . 'public/css/main.min.css' ),
+            'all'
+        );
         //wp_enqueue_style( 'torotube_public_icons', TOROTUBE_DIR_URI . 'public/css/icons.min.css', array(), $this->version, 'all' );
     }
     
