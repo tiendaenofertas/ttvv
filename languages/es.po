@@ -1,0 +1,1031 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Torotube\n"
+"POT-Creation-Date: 2021-07-19 21:16-0500\n"
+"PO-Revision-Date: 2021-07-19 21:23-0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:9
+msgid "Page not found"
+msgstr "Página no encontrada"
+
+#: 404.php:13
+msgid "Best HD Porn videos"
+msgstr "Los mejores vídeos porno en HD"
+
+#: admin/class-torotube-admin.php:150 admin/class-torotube-admin.php:151
+msgid "Report videos"
+msgstr "Vídeos de reportajes"
+
+#: admin/partials/report_videos.php:2
+msgid "Post Reported"
+msgstr "Puesto denunciado"
+
+#: admin/partials/report_videos.php:3
+msgid "These are all reports, please consider solving them."
+msgstr "Todos estos son informes, por favor considere resolverlos."
+
+#: admin/partials/report_videos.php:24
+msgid "Post"
+msgstr "Entrada"
+
+#: admin/partials/report_videos.php:25
+msgid "Reason"
+msgstr "Razón"
+
+#: admin/partials/report_videos.php:26
+#: admin/partials/torotube-panel-home.php:178 includes/customizer.php:397
+msgid "Description"
+msgstr "Descripción"
+
+#: admin/partials/report_videos.php:27
+msgid "Action"
+msgstr "Acción"
+
+#: admin/partials/report_videos.php:49 functions.php:161 functions.php:184
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin/partials/torotube-panel-home.php:54
+msgid "Latest Videos"
+msgstr "Últimos vídeos"
+
+#: admin/partials/torotube-panel-home.php:56
+#: admin/partials/torotube-panel-home.php:92
+#: admin/partials/torotube-panel-home.php:119
+#: admin/partials/torotube-panel-home.php:146
+#: admin/partials/torotube-panel-home.php:174 includes/customizer.php:382
+msgid "Title"
+msgstr "Título"
+
+#: admin/partials/torotube-panel-home.php:60
+#: admin/partials/torotube-panel-home.php:96
+#: admin/partials/torotube-panel-home.php:123
+#: admin/partials/torotube-panel-home.php:150 includes/customizer.php:440
+msgid "URL"
+msgstr "URL"
+
+#: admin/partials/torotube-panel-home.php:64
+#: admin/partials/torotube-panel-home.php:100
+#: admin/partials/torotube-panel-home.php:127
+#: admin/partials/torotube-panel-home.php:154
+#: includes/widgets/wdgt_recommend.php:100
+msgid "Number"
+msgstr "Número"
+
+#: admin/partials/torotube-panel-home.php:68
+#: admin/partials/torotube-panel-home.php:104
+#: admin/partials/torotube-panel-home.php:131
+#: admin/partials/torotube-panel-home.php:158
+msgid "Enable ADS"
+msgstr "Activar ADS"
+
+#: admin/partials/torotube-panel-home.php:71
+#: admin/partials/torotube-panel-home.php:107
+#: admin/partials/torotube-panel-home.php:134
+#: admin/partials/torotube-panel-home.php:161
+msgid "Yes"
+msgstr "Sí"
+
+#: admin/partials/torotube-panel-home.php:73
+#: admin/partials/torotube-panel-home.php:109
+#: admin/partials/torotube-panel-home.php:136
+#: admin/partials/torotube-panel-home.php:163
+msgid "No"
+msgstr "No"
+
+#: admin/partials/torotube-panel-home.php:77
+msgid "ADS Mobile"
+msgstr "ADS Móvil"
+
+#: admin/partials/torotube-panel-home.php:81
+msgid "ADS Desktop"
+msgstr "Escritorio ADS"
+
+#: admin/partials/torotube-panel-home.php:90
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:379
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:384
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:402
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:701
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:717
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:743
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:980
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:1004
+msgid "Categories"
+msgstr "Categorías"
+
+#: admin/partials/torotube-panel-home.php:117
+#: admin/partials/torotube-panel-home.php:144
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:439
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:455
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:770
+#: includes/class-torotube-permalinks.php:12 includes/customizer.php:835
+msgid "Pornstar"
+msgstr "Estrella del porno"
+
+#: admin/partials/torotube-panel-home.php:172
+msgid "Seo Text"
+msgstr "Texto Seo"
+
+#: admin/partials/torotube-panel-home.php:189
+msgid "Save"
+msgstr "Guardar"
+
+#: admin/partials/torotube_function_metabox.php:16
+msgid "Duration"
+msgstr "Duración"
+
+#: admin/partials/torotube_function_metabox.php:20 includes/customizer.php:408
+msgid "Video"
+msgstr "Video"
+
+#: admin/partials/torotube_function_metabox.php:24
+#: admin/partials/torotube_function_metabox.php:28
+#: admin/partials/torotube_function_metabox.php:32
+#: admin/partials/torotube_function_metabox.php:36
+msgid "Video Optional"
+msgstr "Vídeo Opcional"
+
+#: admin/partials/torotube_function_metabox.php:41
+msgid "Top title SEO"
+msgstr "Título superior SEO"
+
+#: admin/partials/torotube_function_metabox.php:52
+msgid "Download Link"
+msgstr "Enlace de descarga"
+
+#: admin/partials/torotube_function_metabox.php:73 includes/customizer.php:695
+msgid "Video Trailer"
+msgstr "Video Trailer"
+
+#: admin/partials/torotube_function_metabox_page.php:13 functions.php:422
+#: functions.php:438
+msgid "Top Title SEO"
+msgstr "Título superior SEO"
+
+#: category.php:31 includes/customizer.php:1469
+#: public/partials/templates/loop-channel.php:11
+#: public/partials/templates/loop-pornstar.php:11 taxonomy-channel_tt.php:52
+#: taxonomy-toro_pornstar.php:50
+msgid "videos"
+msgstr "videos"
+
+#: functions.php:71
+msgid "Previews Page"
+msgstr "Página de avances"
+
+#: functions.php:90
+msgid "Next Page"
+msgstr "Siguiente página"
+
+#: functions.php:111
+msgid "Logo White"
+msgstr "Logotipo blanco"
+
+#: functions.php:156 functions.php:174 includes/class-torotube-cpt.php:31
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: functions.php:159 functions.php:182
+msgid "Upload image"
+msgstr "Subir Imagen"
+
+#: functions.php:269 functions.php:312 functions.php:358
+msgid "Previous"
+msgstr "Anterior"
+
+#: functions.php:270 functions.php:313 functions.php:359
+msgid "Next"
+msgstr "Siguiente"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:265
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:597
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:626
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:979
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:1003
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:277
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:326
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:392
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:445
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:496
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:547
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:603
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:643
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:707
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:760
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:809
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:860
+msgid "Enabled section"
+msgstr "Sección habilitada"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:286
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:347
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:415
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:466
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:517
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:568
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:613
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:664
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:731
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:781
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:830
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:881
+msgid "Number items"
+msgstr "Cantidad de artículos"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:313
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:688
+msgid "Latest post"
+msgstr "Última publicación"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:318
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:336
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:653
+msgid "Videos"
+msgstr "Videos"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:333
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:399
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:452
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:503
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:554
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:650
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:714
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:767
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:816
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:867
+#: includes/customizer.php:673
+msgid "Title of section"
+msgstr "Título de la sección"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:340
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:406
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:459
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:510
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:561
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:657
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:721
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:774
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:823
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:874
+msgid "URL - view more"
+msgstr "URL - ver más"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:354
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:671
+msgid "Enabled ADS"
+msgstr "ADS habilitado"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:361
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:678
+#: includes/customizer.php:2006
+msgid "ADS"
+msgstr "ADS"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:434
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:754
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:793
+msgid "Pornstars"
+msgstr "Estrellas del porno"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:485
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:803
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:842
+msgid "Channels"
+msgstr "Canales"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:490
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:506
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:819
+#: includes/class-torotube-permalinks.php:13 includes/customizer.php:879
+msgid "Channel"
+msgstr "Canal"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:536
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:541
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:557
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:854
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:870
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:893
+#: includes/class-torotube-permalinks.php:14
+msgid "Movies"
+msgstr "Películas"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:637
+msgid "Latest Post"
+msgstr "Ultimos Artículos"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:976
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:1000
+msgid "Select taxonomy"
+msgstr "Seleccionar taxonomía"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:987
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:1011
+msgid "Select order"
+msgstr "Seleccionar pedido"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:990
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:1014
+#: includes/customizer.php:1664
+msgid "Name"
+msgstr "Nombre"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:991
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:1015
+msgid "Count"
+msgstr "Contar"
+
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:992
+#: helpers/customizer-repeater-production/class/customizer-repeater-control.php:1016
+#: includes/widgets/wdgt_recommend.php:114
+msgid "Random"
+msgstr "Aleatorio"
+
+#: includes/class-torotube-cpt.php:17
+msgid "Item Archives"
+msgstr "Archivos del elemento"
+
+#: includes/class-torotube-cpt.php:18
+msgid "Item Attributes"
+msgstr "Atributos de elemento"
+
+#: includes/class-torotube-cpt.php:19
+msgid "Parent Item:"
+msgstr "Item padre:"
+
+#: includes/class-torotube-cpt.php:20
+msgid "All Items"
+msgstr "Todos los elementos"
+
+#: includes/class-torotube-cpt.php:21
+msgid "Add New Item"
+msgstr "Añadir nuevo elemento"
+
+#: includes/class-torotube-cpt.php:22
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: includes/class-torotube-cpt.php:23
+msgid "New Item"
+msgstr "Nuevo elemento"
+
+#: includes/class-torotube-cpt.php:24
+msgid "Edit Item"
+msgstr "Editar elemento"
+
+#: includes/class-torotube-cpt.php:25
+msgid "Update Item"
+msgstr "Actualizar elemento"
+
+#: includes/class-torotube-cpt.php:26
+msgid "View Item"
+msgstr "Ver elemento"
+
+#: includes/class-torotube-cpt.php:27
+msgid "View Items"
+msgstr "Ver Items"
+
+#: includes/class-torotube-cpt.php:28
+msgid "Search Item"
+msgstr "Buscar artículo"
+
+#: includes/class-torotube-cpt.php:29
+msgid "Not found"
+msgstr "No encontrado"
+
+#: includes/class-torotube-cpt.php:30
+msgid "Not found in Trash"
+msgstr "No encontrado en la papelera"
+
+#: includes/class-torotube-cpt.php:32
+msgid "Set featured image"
+msgstr "Establecer imagen destacada"
+
+#: includes/class-torotube-cpt.php:33
+msgid "Remove featured image"
+msgstr "Eliminar la imagen destacada"
+
+#: includes/class-torotube-cpt.php:34
+msgid "Use as featured image"
+msgstr "Usar como imagen destacada"
+
+#: includes/class-torotube-cpt.php:35
+msgid "Insert into item"
+msgstr "Insertar en el elemento"
+
+#: includes/class-torotube-cpt.php:36
+msgid "Uploaded to this item"
+msgstr "Subido a este elemento"
+
+#: includes/class-torotube-cpt.php:37
+msgid "Items list"
+msgstr "Lista de elementos"
+
+#: includes/class-torotube-cpt.php:38
+msgid "Items list navigation"
+msgstr "Navegación de lista de elementos"
+
+#: includes/class-torotube-cpt.php:39
+msgid "Filter items list"
+msgstr "Filtrar lista de elementos"
+
+#: includes/class-torotube-cpt.php:46
+msgid "Post Type"
+msgstr "Tipo de publicación"
+
+#: includes/class-torotube-cpt.php:47
+msgid "Post Type Description"
+msgstr "Descripción del Post"
+
+#: includes/class-torotube-permalinks.php:20
+msgid "Torotube - Permalink Settings"
+msgstr "Torotube - Configuración del Permalink"
+
+#: includes/class-torotube-sidebar.php:7
+msgid "Sidebar Lateral"
+msgstr "Barra lateral"
+
+#: includes/class-torotube-sidebar.php:9
+msgid "Sidebar principal del theme"
+msgstr "Barra lateral principal del tema"
+
+#: includes/customizer.php:77
+msgid "Logo Dark"
+msgstr "Logo Oscuro"
+
+#: includes/customizer.php:89
+msgid "Logo Light"
+msgstr "Logo Claro"
+
+#: includes/customizer.php:106
+msgid "Header"
+msgstr "Cabecera"
+
+#: includes/customizer.php:117
+msgid "Sticky Header"
+msgstr "Cabecera fija"
+
+#: includes/customizer.php:129 includes/customizer.php:151
+#: includes/customizer.php:208 includes/customizer.php:997
+msgid "Enable"
+msgstr "Habilitar"
+
+#: includes/customizer.php:140
+msgid "Search form"
+msgstr "Formulario de búsqueda"
+
+#: includes/customizer.php:162
+msgid "Suggested search"
+msgstr "Búsqueda sugerida"
+
+#: includes/customizer.php:173 includes/customizer.php:684
+#: includes/customizer.php:827 includes/customizer.php:868
+#: includes/customizer.php:913
+msgid "Number of items"
+msgstr "Número de artículos vendidos"
+
+#: includes/customizer.php:185
+msgid "Placeholder of search form"
+msgstr "Marcador de posición del formulario de búsqueda"
+
+#: includes/customizer.php:197
+msgid "User Menu"
+msgstr "Menú del Usuario"
+
+#: includes/customizer.php:220 includes/customizer.php:1758
+msgid "Profile"
+msgstr "Perfil"
+
+#: includes/customizer.php:232 includes/customizer.php:1385
+msgid "Favorites"
+msgstr "Favoritos"
+
+#: includes/customizer.php:245 includes/customizer.php:1397
+msgid "Watch Later"
+msgstr "Verlo más tarde"
+
+#: includes/customizer.php:257
+msgid "Log in"
+msgstr "Iniciar sesión"
+
+#: includes/customizer.php:268 includes/customizer.php:1747
+msgid "Sign in"
+msgstr "Iniciar sesión"
+
+#: includes/customizer.php:279 includes/customizer.php:1770
+msgid "Dark mode"
+msgstr "Modo Oscuro"
+
+#: includes/customizer.php:290 includes/customizer.php:953
+msgid "Scripts Code"
+msgstr "Código de publicidad"
+
+#: includes/customizer.php:302 includes/customizer.php:965
+msgid "Insert your scripts code"
+msgstr "Inserte el código de sus scripts"
+
+#: includes/customizer.php:312 public/partials/templates/breadcrumb.php:9
+msgid "Home"
+msgstr "Inicio"
+
+#: includes/customizer.php:323
+msgid "Title Seo"
+msgstr "Título Seo"
+
+#: includes/customizer.php:334
+msgid "Title h1"
+msgstr "Título h1"
+
+#: includes/customizer.php:346
+msgid "Blocks Home"
+msgstr "Bloques Inicio"
+
+#: includes/customizer.php:356
+msgid "Blocks of Home"
+msgstr "Bloques de casa"
+
+#: includes/customizer.php:371
+msgid "Text SEO Home"
+msgstr "Texto SEO Inicio"
+
+#: includes/customizer.php:419
+msgid "ADS or banner above the player"
+msgstr "Anuncios o banners por encima del reproductor"
+
+#: includes/customizer.php:429
+msgid "Text"
+msgstr "Texto"
+
+#: includes/customizer.php:464
+msgid "ADS lateral Player"
+msgstr "Reproductor lateral ADS"
+
+#: includes/customizer.php:476
+msgid "Player ADS Lateral"
+msgstr "Jugador ADS Lateral"
+
+#: includes/customizer.php:487
+msgid "ADS inside the player"
+msgstr "ADS dentro del reproductor"
+
+#: includes/customizer.php:497
+msgid "ADS Inside Player"
+msgstr "ADS Inside Player"
+
+#: includes/customizer.php:508
+msgid "Features video player"
+msgstr "Características del reproductor de vídeo"
+
+#: includes/customizer.php:595
+msgid "Report form"
+msgstr "Formulario de informe"
+
+#: includes/customizer.php:620
+msgid "Report form visible for"
+msgstr "Formulario de informe visible para"
+
+#: includes/customizer.php:625
+msgid "Registered users"
+msgstr "Usuarios registrados"
+
+#: includes/customizer.php:626
+msgid "Unregistered users"
+msgstr "Usuarios no registrados"
+
+#: includes/customizer.php:627
+msgid "All users"
+msgstr "Todos los usuarios"
+
+#: includes/customizer.php:637
+msgid "list of reasons (one per line)"
+msgstr "lista de motivos (uno por línea)"
+
+#: includes/customizer.php:649
+msgid "Related videos"
+msgstr "Videos relacionados"
+
+#: includes/customizer.php:715 includes/customizer.php:1373
+#: includes/customizer.php:1641 includes/customizer.php:1652
+msgid "Comments"
+msgstr "Comentarios"
+
+#: includes/customizer.php:726
+msgid "Configuration"
+msgstr "Configuración"
+
+#: includes/customizer.php:774
+msgid "Disqus Option"
+msgstr "Opción Disqus"
+
+#: includes/customizer.php:799
+msgid "Disqus code"
+msgstr "Código de publicidad"
+
+#: includes/customizer.php:807 includes/widgets/wdgt_recommend.php:115
+#: includes/widgets/wdgt_recommend.php:121
+msgid "Category"
+msgstr "Categoría"
+
+#: includes/customizer.php:817
+msgid "Category Archive"
+msgstr "Archivo de categorías"
+
+#: includes/customizer.php:845
+msgid "Pornstar Archive"
+msgstr "Archivo de estrellas del porno"
+
+#: includes/customizer.php:857 includes/customizer.php:902
+msgid "Enable alphabet"
+msgstr "Activar el alfabeto"
+
+#: includes/customizer.php:890
+msgid "Channel Archive"
+msgstr "Archivo de canales"
+
+#: includes/customizer.php:924
+msgid "Footer"
+msgstr "Pie de página"
+
+#: includes/customizer.php:974
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: includes/customizer.php:986
+msgid "Sticky Sidebar"
+msgstr "Sidebar Fija"
+
+#: includes/customizer.php:1008
+msgid "Sidebar Position"
+msgstr "Posición de la barra lateral"
+
+#: includes/customizer.php:1019
+msgid "Sidebar General"
+msgstr "Barra lateral general"
+
+#: includes/customizer.php:1024 includes/customizer.php:1042
+#: includes/customizer.php:1060 includes/customizer.php:1078
+#: includes/customizer.php:1096 includes/customizer.php:1114
+#: includes/customizer.php:1132 includes/customizer.php:1150
+#: includes/customizer.php:1168
+msgid "Left"
+msgstr "Izquierda"
+
+#: includes/customizer.php:1025 includes/customizer.php:1043
+#: includes/customizer.php:1061 includes/customizer.php:1079
+#: includes/customizer.php:1097 includes/customizer.php:1115
+#: includes/customizer.php:1133 includes/customizer.php:1151
+#: includes/customizer.php:1169
+msgid "Right"
+msgstr "Derecha"
+
+#: includes/customizer.php:1026 includes/customizer.php:1044
+#: includes/customizer.php:1062 includes/customizer.php:1080
+#: includes/customizer.php:1098 includes/customizer.php:1116
+#: includes/customizer.php:1134 includes/customizer.php:1152
+#: includes/customizer.php:1170
+msgid "None"
+msgstr "Ninguno"
+
+#: includes/customizer.php:1037
+msgid "Sidebar Home"
+msgstr "Barra lateral en el inicio"
+
+#: includes/customizer.php:1055
+msgid "Sidebar Video"
+msgstr "Vídeo de la barra lateral"
+
+#: includes/customizer.php:1073
+msgid "Sidebar Category"
+msgstr "Categoría de la barra lateral"
+
+#: includes/customizer.php:1091
+msgid "Sidebar Pornstar"
+msgstr "Estrella porno de la barra lateral"
+
+#: includes/customizer.php:1109
+msgid "Sidebar Channel"
+msgstr "Canal de la barra lateral"
+
+#: includes/customizer.php:1127
+msgid "Sidebar Search"
+msgstr "Búsqueda en la barra lateral"
+
+#: includes/customizer.php:1145
+msgid "Sidebar 404"
+msgstr "Barra lateral 404"
+
+#: includes/customizer.php:1163
+msgid "Sidebar User"
+msgstr "Usuario de la barra lateral"
+
+#: includes/customizer.php:1176 includes/customizer.php:1735
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: includes/customizer.php:1187
+msgid "URL Pages"
+msgstr "Páginas URL"
+
+#: includes/customizer.php:1198
+msgid "Login URL Page"
+msgstr "Página URL de inicio de sesión"
+
+#: includes/customizer.php:1209
+msgid "Register URL Page"
+msgstr "Registro de la página URL"
+
+#: includes/customizer.php:1220
+msgid "User Profile URL Page"
+msgstr "Página URL del perfil del usuario"
+
+#: includes/customizer.php:1231
+msgid "Favorite URL Page"
+msgstr "Página de URLs favoritas"
+
+#: includes/customizer.php:1241
+msgid "Watch later URL Page"
+msgstr "Ver más tarde URL Página"
+
+#: includes/customizer.php:1252
+msgid "Redirect"
+msgstr "Redirigir"
+
+#: includes/customizer.php:1262
+msgid "Redirect after login URL Page"
+msgstr "Redirección después de la página URL de inicio de sesión"
+
+#: includes/customizer.php:1271
+msgid "Metabox"
+msgstr "Metabox"
+
+#: includes/customizer.php:1283
+msgid "Metabox video"
+msgstr "Vídeo de Metabox"
+
+#: includes/customizer.php:1295
+msgid "Metabox duration"
+msgstr "Duración de la Metabox"
+
+#: includes/customizer.php:1307
+msgid "Metabox Video Trailer"
+msgstr "Trailer de vídeo de Metabox"
+
+#: includes/customizer.php:1315
+msgid "Language"
+msgstr "Idioma"
+
+#: includes/customizer.php:1326
+msgid "General Terms"
+msgstr "Condiciones generales"
+
+#: includes/customizer.php:1337 public/partials/templates/loop-sidebar.php:49
+msgid "views"
+msgstr "vistas"
+
+#: includes/customizer.php:1349 public/partials/templates/loop-sidebar.php:53
+msgid "watch video"
+msgstr "ver vídeo"
+
+#: includes/customizer.php:1361 public/partials/templates/loop-sidebar.php:41
+msgid "watch later"
+msgstr "Ver después"
+
+#: includes/customizer.php:1409
+msgid "Download"
+msgstr "Descargar"
+
+#: includes/customizer.php:1421
+msgid "Share"
+msgstr "Compartir"
+
+#: includes/customizer.php:1433
+msgid "Load more"
+msgstr "Cargar más"
+
+#: includes/customizer.php:1446
+msgid "View more"
+msgstr "Ver más"
+
+#: includes/customizer.php:1457
+msgid "Videos "
+msgstr "Vídeos"
+
+#: includes/customizer.php:1481
+msgid "All"
+msgstr "Todo"
+
+#: includes/customizer.php:1492
+msgid "Report Form"
+msgstr "Formulario de denuncia"
+
+#: includes/customizer.php:1503
+msgid "Report"
+msgstr "Informe"
+
+#: includes/customizer.php:1515
+msgid "Give us more details"
+msgstr "Danos más detalles"
+
+#: includes/customizer.php:1527
+msgid "Send Report"
+msgstr "Enviar informe"
+
+#: includes/customizer.php:1539
+msgid "Report sent successfully"
+msgstr "El reporte se envió exitosamente"
+
+#: includes/customizer.php:1551
+msgid "Somethings wrong"
+msgstr "Algo va mal"
+
+#: includes/customizer.php:1563
+msgid "Player"
+msgstr "Jugador"
+
+#: includes/customizer.php:1574
+msgid "Option"
+msgstr "Opción"
+
+#: includes/customizer.php:1586
+msgid "Option 1"
+msgstr "Opción 1"
+
+#: includes/customizer.php:1597
+msgid "Option 2"
+msgstr "Opción 2"
+
+#: includes/customizer.php:1608
+msgid "Option 3"
+msgstr "Opción 3"
+
+#: includes/customizer.php:1619
+msgid "Option 4"
+msgstr "Opción 4"
+
+#: includes/customizer.php:1630
+msgid "Option 5"
+msgstr "Opción 5"
+
+#: includes/customizer.php:1676 includes/customizer.php:1876
+msgid "Email"
+msgstr "Email"
+
+#: includes/customizer.php:1688
+msgid "Your comment"
+msgstr "Tu comentario"
+
+#: includes/customizer.php:1700
+msgid "Send comment"
+msgstr "Enviar comentario"
+
+#: includes/customizer.php:1712 includes/customizer.php:1794
+msgid "No comments yet"
+msgstr "No hay comentarios aún"
+
+#: includes/customizer.php:1724
+msgid "Login and Register"
+msgstr "Inicie sesión y registre"
+
+#: includes/customizer.php:1782
+msgid "Sign out"
+msgstr "Cerrar sesión"
+
+#: includes/customizer.php:1806
+msgid "User or email"
+msgstr "Usuario o correo electrónico"
+
+#: includes/customizer.php:1818
+msgid "Password"
+msgstr "Contraseña"
+
+#: includes/customizer.php:1830
+msgid "Remember me"
+msgstr "Recuérdame"
+
+#: includes/customizer.php:1841
+msgid "Enter your new password"
+msgstr "Introduzca tu contraseña"
+
+#: includes/customizer.php:1852
+msgid "changes saved successfully"
+msgstr "Änderungen erfolgreich gespeichert"
+
+#: includes/customizer.php:1864
+msgid "Forgot password"
+msgstr "¿Olvidó su contraseña?"
+
+#: includes/customizer.php:1887
+msgid "My Account"
+msgstr "Mi cuenta"
+
+#: includes/customizer.php:1898
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: includes/customizer.php:1910
+msgid "Not registered yet?"
+msgstr "¿Todavía no te has registrado?"
+
+#: includes/customizer.php:1922
+msgid "Create an Account"
+msgstr "Crea una cuenta"
+
+#: includes/customizer.php:1934
+msgid "Create account"
+msgstr "Crear una cuenta"
+
+#: includes/customizer.php:1946
+msgid "Create your account"
+msgstr "Crea tu cuenta"
+
+#: includes/customizer.php:1957
+msgid "Please fill out the following fields to signup"
+msgstr "Por favor, rellene los siguientes campos para registrarse"
+
+#: includes/customizer.php:1969
+msgid "User"
+msgstr "Usuario"
+
+#: includes/customizer.php:1981
+msgid "Already have an account?"
+msgstr "¿Ya tienes una cuenta?"
+
+#: includes/customizer.php:1994
+msgid "Go Back"
+msgstr "Regresar"
+
+#: includes/customizer.php:2017
+msgid "Close and play"
+msgstr "Cerrar"
+
+#: includes/widgets/wdgt_recommend.php:92
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/widgets/wdgt_recommend.php:108
+msgid "Order"
+msgstr "Orden"
+
+#: includes/widgets/wdgt_recommend.php:112
+msgid "Latest"
+msgstr "Último"
+
+#: includes/widgets/wdgt_recommend.php:113
+msgid "Views"
+msgstr "Vistas"
+
+#: public/partials/templates/loop-none.php:2
+msgid "No videos found"
+msgstr "No se encontraron Vídeos"
+
+#: public/partials/templates/loop-sidebar.php:30
+msgid "favorites"
+msgstr "favoritos"
+
+#: taxonomy-channel_tt.php:73 taxonomy-toro_pornstar.php:71
+msgid "Recently added videos"
+msgstr "Vídeos añadidos recientemente"
+
+#: taxonomy-channel_tt.php:74 taxonomy-toro_pornstar.php:72
+msgid "Most viewed videos"
+msgstr "Videos más vistos"
+
+#: taxonomy-channel_tt.php:75 taxonomy-toro_pornstar.php:73
+msgid "Popular videos"
+msgstr "Videos populares"
+
+#: taxonomy-channel_tt.php:76 taxonomy-toro_pornstar.php:74
+msgid "Random videos"
+msgstr "Videos al azar"
+
+#. Theme Name of the plugin/theme
+msgid "Torotube"
+msgstr "Torotube"
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "#"
+msgstr "#"
+
+#. Description of the plugin/theme
+#. Author of the plugin/theme
+msgid "PREFIX"
+msgstr "PREFIX"
